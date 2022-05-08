@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(96, 96, 168);
+    font-family: verdana;
+    font-size: 100%;
+    text-align: center;
+    border-radius: 30%;
+    width: 20%;
+  }
+  h2 {
+    color:lightcoral;
+    font-family: courier;
+    font-size: 160%;
+  }
